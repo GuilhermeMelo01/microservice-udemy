@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/greeting-service/greeting-service.iml" filepath="$PROJECT_DIR$/greeting-service/greeting-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice-udemy.iml" filepath="$PROJECT_DIR$/.idea/microservice-udemy.iml" />
     </modules>
