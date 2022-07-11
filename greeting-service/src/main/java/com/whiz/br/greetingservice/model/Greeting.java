@@ -1,4 +1,4 @@
-package com.whiz.br.greetingservice;
+package com.whiz.br.greetingservice.model;
 
 public class Greeting {
 
